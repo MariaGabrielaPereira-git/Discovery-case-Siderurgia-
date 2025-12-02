@@ -1,5 +1,5 @@
 **📄 Projeto de Descoberta**
-Planejamento e Objetivos
+**Planejamento e Objetivos** 
 
 ---
 
@@ -7,27 +7,27 @@ Planejamento e Objetivos
 
 ---
 
-**Entendimento e Mapeamento dos Processos (AS IS)**
+- **Entendimento e Mapeamento dos Processos (AS IS)**
 
 Os principais objetivos desse trabalho:
 
-**Obter uma visão real da operação**
+- **Obter uma visão real da operação**
 
 Mapear como o processo realmente funciona hoje na prática — e não apenas como é percebido ou descrito teoricamente. Isso permite entender o cenário atual com precisão e transparência.
 
-**Identificar ineficiências e gargalos**
+- **Identificar ineficiências e gargalos**
 
 Localizar pontos de desperdício, retrabalhos, redundâncias, atrasos e falhas de comunicação que impactam diretamente a performance e a fluidez das atividades.
 
-**Medir a efetividade das atividades**
+- **Medir a efetividade das atividades**
 
 Avaliar se as etapas executadas atualmente contribuem de forma positiva para os objetivos estratégicos da Empresa, garantindo foco no que realmente gera valor.
 
-**Padronizar o entendimento entre as áreas**
+- **Padronizar o entendimento entre as áreas**
 
 Assegurar que todos os envolvidos tenham a mesma visão sobre o processo, facilitando a comunicação, a colaboração e o alinhamento para as próximas etapas de automação e otimização.
 
-**Servir como base para melhorias (To Be)**
+- **Servir como base para melhorias (To Be)**
 
 Criar um alicerce sólido para o desenho do processo futuro desejado (To Be), possibilitando a comparação entre o estado atual e o ideal, e direcionando decisões mais assertivas.
 
@@ -37,15 +37,15 @@ Criar um alicerce sólido para o desenho do processo futuro desejado (To Be), po
 
 ---
 
-**Os resultados esperados do trabalho de Discovery**
+- **Os resultados esperados do trabalho de Discovery**
 
-**Documentação abrangente dos processos** : Mapas de processos (fluxogramas) e especificações específicas que servem como referência oficial para a Empresa.
+- **Documentação abrangente dos processos** : Mapas de processos (fluxogramas) e especificações específicas que servem como referência oficial para a Empresa.
 
-**Identificação de oportunidades de melhoria** : Um relatório ou lista clara de problemas, ineficiências e áreas com potencial para otimização ou automação.
+- **Identificação de oportunidades de melhoria** : Um relatório ou lista clara de problemas, ineficiências e áreas com potencial para otimização ou automação.
 
-**Redução de custos e desperdícios** : Ao visualizar os pontos fracos, a Empresa pode atuar para reduzir despesas desnecessárias.
+- **Redução de custos e desperdícios** : Ao visualizar os pontos fracos, a Empresa pode atuar para reduzir despesas desnecessárias.
 
-**Aumento da transparência e controle** : Uma compreensão clara dos fluxos de trabalho melhora a visibilidade da gestão sobre as operações.
+- **Aumento da transparência e controle** : Uma compreensão clara dos fluxos de trabalho melhora a visibilidade da gestão sobre as operações.
 
 **Base para a tomada de decisão** : Informações concretas e baseadas em dados reais para decidir sobre investimentos em tecnologia, mudanças organizacionais ou novos procedimentos.
 
