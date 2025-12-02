@@ -1,9 +1,10 @@
 **📄 Projeto de Descoberta**
 
+---
 
 **Planejamento e Objetivos** 
 
----
+
 
 <img width="1185" height="599" alt="image" src="https://github.com/user-attachments/assets/18e57b8f-4ab7-414f-97c8-679eab6cad7c" />
 
@@ -49,7 +50,7 @@ Criar um alicerce sólido para o desenho do processo futuro desejado (To Be), po
 
 - **Aumento da transparência e controle** : Uma compreensão clara dos fluxos de trabalho melhora a visibilidade da gestão sobre as operações.
 
-**Base para a tomada de decisão** : Informações concretas e baseadas em dados reais para decidir sobre investimentos em tecnologia, mudanças organizacionais ou novos procedimentos.
+- **Base para a tomada de decisão** : Informações concretas e baseadas em dados reais para decidir sobre investimentos em tecnologia, mudanças organizacionais ou novos procedimentos.
 
 ---
 <img width="1263" height="635" alt="image" src="https://github.com/user-attachments/assets/7d8d82a4-0e12-49d7-8f67-97caaf1fdd85" />
