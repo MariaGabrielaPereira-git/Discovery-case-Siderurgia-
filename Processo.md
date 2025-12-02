@@ -7,7 +7,8 @@ Planejamento e Objetivos
 
 ---
 
-Entendimento e Mapeamento dos Processos (AS IS)
+**Entendimento e Mapeamento dos Processos (AS IS)**
+
 Os principais objetivos desse trabalho:
 
 Obtenha uma visão real e objetiva:
@@ -26,9 +27,14 @@ Servir como base para melhorias (To Be)
 
 Criar uma base sólida para o desenho do processo futuro desejado (“To Be”), permitindo a comparação entre o estado atual e o ideal.
 
+---
+
 <img width="1342" height="636" alt="image" src="https://github.com/user-attachments/assets/68e74e8c-6e19-4bbf-afaa-dcfceabfea57" />
 
-Os resultados esperados do trabalho de Discovery
+---
+
+**Os resultados esperados do trabalho de Discovery**
+
 Documentação abrangente dos processos : Mapas de processos (fluxogramas) e especificações específicas que servem como referência oficial para a Empresa.
 Identificação de oportunidades de melhoria : Um relatório ou lista clara de problemas, ineficiências e áreas com potencial para otimização ou automação.
 Redução de custos e desperdícios : Ao visualizar os pontos fracos, a Empresa pode atuar para reduzir despesas desnecessárias.
