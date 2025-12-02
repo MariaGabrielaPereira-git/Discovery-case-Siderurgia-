@@ -1,10 +1,27 @@
 **📄 Projeto de Descoberta**
+---
+**Planejamento e Objetivos** 
+
+---
+**Stakeholders Envolvidos**
+
+- Time de Negócio  
+- Time Técnico  
+- Gestores das Áreas Impactadas  
+- Especialistas de Processo  
+- Time de Automação e Análise  
 
 ---
 
-**Planejamento e Objetivos** 
+**Metodologia Aplicada**
 
-
+- Entrevistas individuais e coletivas
+- Análise documental
+- Acompanhamento operacional
+- Mapeamento detalhado (BPMN / fluxos)
+- Identificação de riscos e oportunidades
+- Construção de hipóteses de solução
+---
 
 <img width="1185" height="599" alt="image" src="https://github.com/user-attachments/assets/18e57b8f-4ab7-414f-97c8-679eab6cad7c" />
 
@@ -57,21 +74,3 @@ Criar um alicerce sólido para o desenho do processo futuro desejado (To Be), po
 
 ---
 
-**Stakeholders Envolvidos**
-
-- Time de Negócio  
-- Time Técnico  
-- Gestores das Áreas Impactadas  
-- Especialistas de Processo  
-- Time de Automação e Análise  
-
----
-
-**Metodologia Aplicada**
-
-- Entrevistas individuais e coletivas
-- Análise documental
-- Acompanhamento operacional
-- Mapeamento detalhado (BPMN / fluxos)
-- Identificação de riscos e oportunidades
-- Construção de hipóteses de solução
